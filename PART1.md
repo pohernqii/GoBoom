@@ -4,10 +4,10 @@
 
 No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
-1  | 1211101800 |      |                   |
-2  | 1211101398 |      |                   |
-3  | 1211101775 |      |                   |
-4  | 1211101506 |      |                   |
+1  | 1211101800 |Tan Jia Jin   |                | 25
+2  | 1211101398 |Poh Ern Qi      |              |
+3  | 1211101775 |Lam Yuet Xin      |                   |
+4  | 1211101506 |Leong Jia Yi      |                   |
 
 
 ## B. Feature Completion
