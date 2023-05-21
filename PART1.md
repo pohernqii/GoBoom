@@ -6,8 +6,8 @@ No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
 1  | 1211101800 |Tan Jia Jin   | The highest-rank card with the same suit as the lead card wins the trick. The winner of a trick leads the next card.     | 25
 2  | 1211101398 |Poh Ern Qi      |All cards should be faced up to facilitate checking (no.1 feature), start a new game with randomized 52 cards (no. 2 feature), handling of invalid input card                         | 25
-3  | 1211101775 |Lam Yuet Xin      |                   |25
-4  | 1211101506 |Leong Jia Yi      |                   |25
+3  | 1211101775 |Lam Yuet Xin      |Deal 7 cards to each of the 4 players, All players must follow the suit or rank of the lead card                   |25
+4  | 1211101506 |Leong Jia Yi      |The first card in the deck is the first lead card and is placed at the center, The first lead card determines the first player                   |25
 
 
 ## B. Feature Completion
