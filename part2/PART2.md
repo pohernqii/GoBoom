@@ -7,7 +7,7 @@ No | ID         | Name | Task descriptions | Contribution %
 1  | 1211101800 |TAN JIA JIN |                   |25
 2  | 1211101775    |   LAM YUET XIN   |                   |25
 3  |     1211101506       | LEONG JIA YI     |                   |25
-4  |       1211101398     |   POH ERN QI   |                   |25
+4  |       1211101398     |   POH ERN QI   |  -Finish a round of game correctly. Display the score of each player. End the game when one of the player's score reach 50,                                               auto drawing cards when player enter 'd'|25
 
 
 ## B. Part 1 Feature Completion (Latest)
