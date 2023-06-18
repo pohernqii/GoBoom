@@ -44,5 +44,5 @@ No | Feature                                                                    
 
 ## D. Link to Part 2 GitHub Repo
 
-https://github.com/pohernqii/
+https://github.com/pohernqii/GoBoom/
 
