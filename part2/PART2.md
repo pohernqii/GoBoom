@@ -5,8 +5,7 @@
 No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
 1  | 1211101800 |TAN JIA JIN |  -Can exit and save the game. Can resume the game. The state of the game is restored when resuming a game.               |25
-2  | 1211101775    |   LAM YUET XIN   |   -Reset the game. All scores become zero. Round and trick number restart from 1. Automatically skip player's turn if the deck is empty
-   |25
+2  | 1211101775    |   LAM YUET XIN   |   -Reset the game. All scores become zero. Round and trick number restart from 1. Automatically skip player's turn if the deck is empty    |25
 3  |     1211101506       | LEONG JIA YI     |   - If a player cannot follow suit or rank, the player must draw from the deck until a card can be played. When the remaining deck is exhausted and the player cannot play, the player does not play in the trick.   |25
 4  |       1211101398     |   POH ERN QI   |  -Finish a round of game correctly. Display the score of each player. End the game when one of the player's score reach 50,                                               auto drawing cards when player enter 'd'|25
 
