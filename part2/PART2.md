@@ -6,7 +6,7 @@ No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
 1  | 1211101800 |TAN JIA JIN |                   |25
 2  | 1211101775    |   LAM YUET XIN   |                   |25
-3  |     1211101506       | LEONG JIA YI     |                   |25
+3  |     1211101506       | LEONG JIA YI     |   - If a player cannot follow suit or rank, the player must draw from the deck until a card can be played. When the remaining deck is exhausted and the player cannot play, the player does not play in the trick.   |25
 4  |       1211101398     |   POH ERN QI   |  -Finish a round of game correctly. Display the score of each player. End the game when one of the player's score reach 50,                                               auto drawing cards when player enter 'd'|25
 
 
